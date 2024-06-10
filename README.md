@@ -1,2 +1,2 @@
 # MarioGame
-A multi levelled mario game
+A multileveled mario game
